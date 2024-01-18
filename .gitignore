@@ -160,3 +160,7 @@ cython_debug/
 #.idea/
 youtube_tutorial/text_ocr/*
 own_receipts/pao_de_acucar/*
+own_receipts/result.png
+own_receipts/receipt_opencv/0a0ebd53.jpeg
+own_receipts/receipt_opencv/Data Extraction - Remote Assignment - Google Docs.pdf
+own_receipts/receipt_opencv/ff8e6691.jpeg
