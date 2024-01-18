@@ -1,6 +1,11 @@
+--prefer-binary
 ipykernel
 pandas
 numpy
 tqdm
 matplotlib
-PIL
+pyarrow
+pytesseract
+easyocr
+keras-ocr
+tensorflow
